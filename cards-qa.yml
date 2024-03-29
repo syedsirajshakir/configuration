@@ -3,9 +3,9 @@ build:
   version: 2.1
   
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related UAt APIs "
   contactDetails:
-    name: "Cards - QA Developer"
+    name: "Cards - UAT Developer"
     email: "cardsqa@eazybank.com"
   onCallSupport:
     - (555) 555-1234
