@@ -4,9 +4,9 @@ build:
   
 
 accounts:
-  message: "Welcome to EazyBank accounts related qa APIs "
+  message: "Welcome to EazyBank accounts related UAT APIs "
   contactDetails:
-    name: "syed siraj- QA"
+    name: "syed siraj- UAT"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1234
